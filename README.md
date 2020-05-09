@@ -1,6 +1,6 @@
 # randomname-2020-05-pro-01
 
-## Projet name : Health product scanner: Healthy Eats 
+## Projet name : Nutrition Calculator 
 
 * Justin Munoz; (Nutritionix main);
 * Dan DiPrenda; (HTML,CSS, Bootstrap main);
